@@ -11,6 +11,7 @@ This program enables the user to record sales, add new books, update details for
 
 ## Getting Started
 1. Create the SQL database to be used as the bookstore database:
+
 ![tables](https://github.com/isabellekazarian/Bookstore-database/blob/master/db-01.jpg)
 ![table detail](https://github.com/isabellekazarian/Bookstore-database/blob/master/db-02.jpg)
 
